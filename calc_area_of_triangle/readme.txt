@@ -1,0 +1,1 @@
+Napisz program, który obliczy pole trójk¹ta na podstawie podanych d³ugoœci trzech boków a, b, c (ale tylko pod warunkiem, ¿e z tych boków mo¿na stworzyæ trójk¹t – jeœli trójk¹ta nie mo¿na utworzyæ, to program zamiast dokonaæ obliczeñ wypisze tekst: Z podanych boków nie sposób utworzyæ trójk¹ta!

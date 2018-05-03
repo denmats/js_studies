@@ -1,0 +1,1 @@
+Napisz skrypt, który po wczytaniu trzech liczb znajdzie najmniejsz¹ i najwiêksz¹ z podanych wartoœci.

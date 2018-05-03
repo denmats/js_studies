@@ -1,0 +1,1 @@
+Napisz skrypt, który wczytuje od u¿ytkownika dwa s³owa, po czym zamienia po klikniêciu w przycisk pierwsze litery w obu wyrazach wypisuj¹c tak¹ wersjê s³ów pod formularzem. Na przyk³ad: “ford mustang” po klikniêciu przekszta³ci siê w: “mord fustang”
